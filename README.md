@@ -1,2 +1,2 @@
-# Web-dev
-web-dev repo
+# Bonjour-Bakery
+Bakery shop website.
